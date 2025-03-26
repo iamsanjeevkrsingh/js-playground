@@ -1,0 +1,1 @@
+this keyword => https://gurindernarang.medium.com/this-keyword-in-js-part-3-call-bind-and-apply-43689605b952
